@@ -34,6 +34,8 @@ SteamToolbox is a desktop toolbox built with PySide6 and QFluentWidgets, designe
 | **Settings** | Theme switching, wallpaper settings, key file path configuration, etc. |
 
 ---
+https://www.image2url.com/r2/default/images/1781722467714-1cfa71e7-5694-4d42-8baf-aa0cc83664f9.png
+https://www.image2url.com/r2/default/images/1781722355370-bc5e3864-2ed8-4ee3-8e82-d1f421c5fa19.png
 
 ## Feature Details
 
