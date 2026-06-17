@@ -51,7 +51,7 @@ All modes run in isolated subprocesses to prevent DLL residue issues.
 
 ### Steam games can be added to your library with one click.
 
-Enter a game AppID to automatically complete the following workflow:
+Enter the APPID or store URL to add items to your library with one click.
 
 ### Trainer Download
 
