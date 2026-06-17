@@ -17,6 +17,7 @@
 ## Feature Overview
 
 SteamToolbox is a desktop toolbox built with PySide6 and QFluentWidgets, designed for Steam gamers and game maintenance scenarios. It consolidates multiple commonly used tools into a single modern interface. All modules support dark/light theme switching and custom wallpapers.
+Built-in steamtools and opensteamtool kernels and TB kernel.
 
 ### Core Modules
 
@@ -61,6 +62,17 @@ Integrates the FLiNG Trainer library with support for:
 - Fuzzy matching algorithm (fuzzywuzzy) with Roman numeral version number conversion
 - Automatic download and extraction of ZIP/RAR/7z formats with multi-version directory management
 - One-click trainer launch and deletion management
+
+### Trainer Download
+
+### Local Library
+
+- Double-clicking a card allows editing Lua files.
+- Right-clicking displays a menu.
+- Supports dragging and dropping Lua files, including batch dragging and dropping of Lua files.
+- Supports dragging and dropping manifest files, including batch dragging and dropping of manifest files.
+- Supports dragging and dropping ZIP, RAR, and 7Z compressed archives, including batch dragging and dropping of compressed archives.
+- Supports dragging and dropping both Lua files and manifest files simultaneously.
 
 ### Real-Time Manifest Monitoring
 
