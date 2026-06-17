@@ -34,8 +34,14 @@ SteamToolbox is a desktop toolbox built with PySide6 and QFluentWidgets, designe
 | **Settings** | Theme switching, wallpaper settings, key file path configuration, etc. |
 
 ---
-https://www.image2url.com/r2/default/images/1781722467714-1cfa71e7-5694-4d42-8baf-aa0cc83664f9.png
-https://www.image2url.com/r2/default/images/1781722355370-bc5e3864-2ed8-4ee3-8e82-d1f421c5fa19.png
+<img width="1001" height="797" alt="屏幕截图 2026-06-18 025221" src="https://github.com/user-attachments/assets/d3bd0271-3890-4049-bee4-240e33928866" />
+<img width="1003" height="798" alt="image" src="https://github.com/user-attachments/assets/f0770ae6-4a49-440e-a50e-83ef62e8e0ae" />
+<img width="993" height="792" alt="image" src="https://github.com/user-attachments/assets/88058d11-d661-48fd-a174-fcfe8e99bd4d" />
+<img width="991" height="795" alt="image" src="https://github.com/user-attachments/assets/c177ac77-7376-486f-92cb-3c34fd859b7a" />
+<img width="996" height="794" alt="image" src="https://github.com/user-attachments/assets/64ba1ff4-cdc1-4cb4-91ab-733a4b3a4bab" />
+<img width="1003" height="792" alt="image" src="https://github.com/user-attachments/assets/72610633-2e23-485c-945c-9964c694683f" />
+<img width="993" height="795" alt="image" src="https://github.com/user-attachments/assets/43f0cc58-e4c9-4d71-be03-623df2ae9e7d" />
+<img width="996" height="792" alt="屏幕截图 2026-06-18 025210" src="https://github.com/user-attachments/assets/99fa8d31-682f-475f-ae72-5d55d5ee5e65" />
 
 ## Feature Details
 
