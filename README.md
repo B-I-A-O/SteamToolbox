@@ -48,16 +48,9 @@ Obtains encrypted tickets via the Steam API, supporting four extraction modes:
 
 All modes run in isolated subprocesses to prevent DLL residue issues.
 
-### One-Click DLC Depot Registration
+### Steam games can be added to your library with one click.
 
 Enter a game AppID to automatically complete the following workflow:
-
-1. Retrieve the full DLC list from the Steam Store API and SteamCMD API
-2. Concurrently query depot information for each DLC with up to 50 concurrent requests
-3. Automatically match keys from local `depotkeys.json` and `appaccesstokens.json` files
-4. Intelligently handle shared depots, fallback depots (AppID+1 through +9), depots without keys, and other edge cases
-5. Auto-generate Lua configuration files and save them to the Steam directory (supports both Kernel 1 `stplug-in` and Kernel 2 `lua` paths)
-6. Built-in special AppID rules (e.g., 275850, 1293830) to automatically handle known anomalies
 
 ### Trainer Download
 
@@ -126,6 +119,7 @@ Integrates the Steamless.CLI tool for one-click SteamStub removal:
 ## Community
 
 - QQ Group: [Join Now](https://qm.qq.com/q/IgSFee6ZgW)
+- Card network: [Personal Card Network](https://cdk.caigamer.cn/)
 
 ---
 
