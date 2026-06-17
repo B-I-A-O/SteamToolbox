@@ -132,7 +132,7 @@ Integrates the Steamless.CLI tool for one-click SteamStub removal:
 
 - QQ Group: [Join Now](https://qm.qq.com/q/IgSFee6ZgW)
 - Personal Card Network: [Click to browse](https://cdk.caigamer.cn/)
-
+- Resource cloud storage collection: [[Click to browse](https://pan.quark.cn/s/93d5555d2b3c)
 ---
 
 <p align="center">
