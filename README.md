@@ -116,8 +116,10 @@ Integrates the Steamless.CLI tool for one-click SteamStub removal:
 - All dialogs and popups fully adapted for dark mode
 
 ---
-<img width="996" height="792" alt="屏幕截图 2026-06-18 025210" src="https://github.com/user-attachments/assets/99fa8d31-682f-475f-ae72-5d55d5ee5e65" />
-<img width="1001" height="797" alt="屏幕截图 2026-06-18 025221" src="https://github.com/user-attachments/assets/d3bd0271-3890-4049-bee4-240e33928866" />
+<img width="996" height="794" alt="image" src="https://github.com/user-attachments/assets/bb7388dc-f8bd-4aa8-8190-10e125bd7516" />
+
+<img width="994" height="793" alt="image" src="https://github.com/user-attachments/assets/d46af3c6-5723-4eff-bf95-6ca8d6b17910" />
+
 
 ## Disclaimer
 
